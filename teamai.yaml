@@ -1,5 +1,9 @@
 team: my-team
 description: TeamAI shared resources
+toolPaths:
+  mimocode:
+    skills: .config/mimocode/skills
+    claudemd: .config/mimocode/AGENTS.md
 repo: https://github.com/wangyuxi1437/teamai-template.git
 provider: github
 sharing:
